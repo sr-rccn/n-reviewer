@@ -3,7 +3,7 @@ const verifyAnswer = (section, answers) => {
     
     let filtered_answers = section.map(
         (correct_answer, key) =>  {
-            if(answers[key] !== undefined){
+            if(answers[key] !== undefined && answers[key] !== 0){
                 return correct_answer === answers[key] ? 'correcta' : 'incorrecta' 
             }else{
                 return 'no respondida'
