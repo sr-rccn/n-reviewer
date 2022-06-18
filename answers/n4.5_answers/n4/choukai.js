@@ -1,12 +1,12 @@
 let mondai_1, mondai_2, mondai_3, mondai_4 
 
-mondai_1 = [2,4,1,3,4,2,4,1]
+mondai_1 = [1,2,1,4,1,2,1,3]
 
-mondai_2 = [4,4,1,4,3,2,3]
+mondai_2 = [3,1,2,1,3,4,1]
 
-mondai_3 = [1,3,1,3,1,1,1]
+mondai_3 = [3,2,2,3,1]
 
-mondai_4 = [2,1,1,3,2,1]
+mondai_4 = [1,3,1,3,2,1,1,2]
 
 let section = {
     name_spanish: 'Comprensión de escucha',
